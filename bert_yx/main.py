@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-#个人微信 wibrce
-#Author 杨博
+#个人微信 
+#Author 
 
 import time
 import torch
